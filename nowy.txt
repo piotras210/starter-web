@@ -1,0 +1,4 @@
+Klingenburg oferuje doskonale programy doborowe dla swoich urzadzen. Oprogramowanie stworzone zostalo na bazie wieloletniego doswiadczenia, podlega ponadto ciaglemu rozwojowi i aktualizacji. Obsluga oprogramowania jest bardzo intuicyjna, przejrzysta, a uzyskiwane wyniki sa rzetelne i kompletne. Dzieki wlasnej jednostce projektowej oprogramowanie mozemy dopasowac do Panstwa indywidualnych potrzeb.
+Kompatybilnosc systemowa naszego oprogramowania
+
+Programy doboru oferujemy zarówno jako samodzielny program lub jako modul DLL, pozwalajacy na integracje z oprogramowaniem klienta. Oprogramowanie pracuje tak na 32-bitowych jak i 64-bitowych systemach Windows, ponadto mozemy zaproponowac równiez rozwiazania dla innych platform, jako np. biblioteki JAVA lub w formie uslugi internetowej.
