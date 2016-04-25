@@ -14,6 +14,8 @@ Sample website with plenty of files for demos
 
 section for conflict
 
+## Testing confilcts
+
 ### Copyright
 
 2016 Git.Training.
