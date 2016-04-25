@@ -9,7 +9,6 @@ section for conflict
 ## Purpose
 
 Sample website with plenty of files for demos
+additional comments for the puprose section
 
 ## Deployment
-
-section for conflict
