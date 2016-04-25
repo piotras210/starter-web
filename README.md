@@ -13,3 +13,7 @@ Sample website with plenty of files for demos
 ## Deployment
 
 section for conflict
+
+### Copyright
+
+2016 Git.Training.
